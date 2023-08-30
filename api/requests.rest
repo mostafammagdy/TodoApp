@@ -1,0 +1,21 @@
+GET http://localhost:3001/todos
+
+###
+
+POST http://localhost:3001/todo/new
+Content-Type: application/json
+
+{
+    "text": "banana times"
+}
+
+###
+
+DELETE http://localhost:3001/todo/delete/64e3ed83a6e9c6d60dfe962e
+
+
+###
+
+PUT http://localhost:3001/todo/complete/64e663fd2c84f48948746909
+
+
