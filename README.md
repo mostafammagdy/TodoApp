@@ -1,6 +1,6 @@
 # TodoApp
 
-![image](https://github.com/mostafammagdy/TodoApp/assets/43654437/88bab061-7497-479a-bff6-a26346470f5b)
+![image](https://github.com/mostafammagdy/TodoApp/assets/43654437/fec3dc91-827d-4967-bbd5-fd8c6dcff785)
 <!-- Replace with an actual screenshot if available -->
 
 TodoApp is a minimalistic task management application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to create, manage, and complete tasks effectively.
@@ -24,17 +24,17 @@ To run TodoApp locally on your machine, follow these steps:
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/TodoApp.git`
+1. Clone the repository: `git clone https://github.com/mostafammagdy/TodoApp.git`
 2. Navigate to the project directory: `cd TodoApp`
 3. Install dependencies for the frontend and backend:
    - For the frontend:
      ```sh
-     cd frontend
+     cd client
      npm install
      ```
    - For the backend:
      ```sh
-     cd backend
+     cd api
      npm install
      ```
 4. Configure MongoDB:
@@ -43,12 +43,12 @@ To run TodoApp locally on your machine, follow these steps:
 5. Run the application:
    - Start the frontend development server:
      ```sh
-     cd frontend
+     cd client
      npm start
      ```
    - Start the backend server:
      ```sh
-     cd backend
+     cd api
      npm start
      ```
 
@@ -75,19 +75,15 @@ Contributions are welcome! To contribute, follow these steps:
 6. Create a Pull Request detailing your changes.
 
 Please follow coding conventions and provide clear commit messages.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You can freely use and modify the code.
+You can freely use and modify the code.
 
 ## Acknowledgments
 
 - Inspiration for this project came from various open-source Todo applications, including:
-  - [Example Todo App 1](https://github.com/exampleuser/example-todo-app)
-  - [Awesome Tasks App](https://github.com/anotheruser/awesome-tasks)
-- Special thanks to [Contributor Name](https://github.com/contributor) for their valuable contributions.
+  - [Complete-MERN-TODO-app](https://github.com/SamiurRahmanMukul/Complete-MERN-TODO-Application)
+  - [MERN Tasks App](https://github.com/Azim-Ahmed/MERN--TODO)
 
 ---
 
-Feel free to [open an issue](https://github.com/your-username/TodoApp/issues) for any questions, feedback, or bug reports. We hope TodoApp simplifies your task management process!
+Feel free to [open an issue](https://github.com/mostafammagdy/TodoApp/issues) for any questions, feedback, or bug reports. I hope TodoApp simplifies your task management process!
 
